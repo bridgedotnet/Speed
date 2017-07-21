@@ -20,4 +20,4 @@ bridge.console.min.js | https://speed.bridge.net/bridge/16.0.0-beta5/bridge.cons
 newtonsoft.json.js | https://speed.bridge.net/bridge/16.0.0-beta5/newtonsoft.json.js
 newtonsoft.json.min.js | https://speed.bridge.net/bridge/16.0.0-beta5/newtonsoft.json.min.js
 
-**Last Updated:** 2017-06-19
+**Last Updated:** 2017-07-17
