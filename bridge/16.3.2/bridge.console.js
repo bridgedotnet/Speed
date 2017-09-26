@@ -10,7 +10,6 @@ Bridge.assembly("Bridge", function ($asm, globals) {
     Bridge.define("Bridge.Console", {
         statics: {
             fields: {
-                BODY_WRAPPER_ID: null,
                 CONSOLE_MESSAGES_ID: null,
                 position: null,
                 instance$1: null
