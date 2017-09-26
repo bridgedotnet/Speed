@@ -13,7 +13,7 @@ bridge.meta.min.js | https://speed.bridge.net/bridge/16.3.2/bridge.meta.min.js
 bridge.d.ts | https://speed.bridge.net/bridge/16.3.2/bridge.d.ts
 bridge.console.js | https://speed.bridge.net/bridge/16.3.2/bridge.console.js
 bridge.console.min.js | https://speed.bridge.net/bridge/16.3.2/bridge.console.min.js
-newtonsoft.json.js | https://speed.bridge.net/bridge/1.2.1/newtonsoft.json.js
-newtonsoft.json.min.js | https://speed.bridge.net/bridge/1.2.1/newtonsoft.json.min.js
+newtonsoft.json.js | https://speed.bridge.net/bridge/16.3.2/newtonsoft.json.js
+newtonsoft.json.min.js | https://speed.bridge.net/bridge/16.3.2/newtonsoft.json.min.js
 
 **Last Updated:** 2017-09-25
