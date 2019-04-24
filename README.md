@@ -1,10 +1,13 @@
-Bridge client files are deployed to our [Speed](https://github.com/bridgedotnet/Speed/tree/master/bridge) repo and can be accessed using the following URL pattern:
+![Bridge.NET logo](https://speed.bridge.net/identity/bridgedotnet-sh.png)
+
+
+[Bridge.NET](https://bridge.net) client files are deployed to our [speed](https://github.com/bridgedotnet/speed.bridge.net/tree/master/bridge) repo and can be accessed using the following URL pattern:
 
 ```
 https://speed.bridge.net/bridge/{VersionNumber}/bridge.min.js
 ```
 
-Name | Url
+File | Url
 ---- | ----
 bridge.js | https://speed.bridge.net/bridge/16.5.0/bridge.js
 bridge.min.js | https://speed.bridge.net/bridge/16.5.0/bridge.min.js
