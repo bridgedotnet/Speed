@@ -9,14 +9,14 @@ https://speed.bridge.net/bridge/{VersionNumber}/bridge.min.js
 
 File | Url
 ---- | ----
-bridge.js | https://speed.bridge.net/bridge/16.8.3/bridge.js
-bridge.min.js | https://speed.bridge.net/bridge/16.8.3/bridge.min.js
-bridge.meta.js | https://speed.bridge.net/bridge/16.8.3/bridge.meta.js
-bridge.meta.min.js | https://speed.bridge.net/bridge/16.8.3/bridge.meta.min.js
-bridge.d.ts | https://speed.bridge.net/bridge/16.8.3/bridge.d.ts
-bridge.console.js | https://speed.bridge.net/bridge/16.8.3/bridge.console.js
-bridge.console.min.js | https://speed.bridge.net/bridge/16.8.3/bridge.console.min.js
-newtonsoft.json.js | https://speed.bridge.net/bridge/16.8.3/newtonsoft.json.js
-newtonsoft.json.min.js | https://speed.bridge.net/bridge/16.8.3/newtonsoft.json.min.js
+bridge.js | https://speed.bridge.net/bridge/17.0.0-beta/bridge.js
+bridge.min.js | https://speed.bridge.net/bridge/17.0.0-beta/bridge.min.js
+bridge.meta.js | https://speed.bridge.net/bridge/17.0.0-beta/bridge.meta.js
+bridge.meta.min.js | https://speed.bridge.net/bridge/17.0.0-beta/bridge.meta.min.js
+bridge.d.ts | https://speed.bridge.net/bridge/17.0.0-beta/bridge.d.ts
+bridge.console.js | https://speed.bridge.net/bridge/17.0.0-beta/bridge.console.js
+bridge.console.min.js | https://speed.bridge.net/bridge/17.0.0-beta/bridge.console.min.js
+newtonsoft.json.js | https://speed.bridge.net/bridge/17.0.0-beta/newtonsoft.json.js
+newtonsoft.json.min.js | https://speed.bridge.net/bridge/17.0.0-beta/newtonsoft.json.min.js
 
-**Last Updated:** 2018-03-21
+**Last Updated:** 2018-04-13
